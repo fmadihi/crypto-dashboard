@@ -8,7 +8,7 @@
 
 ## Picture
 
-![DevFlow Screenshot](./public/Dashboard.png)
+![DevFlow Screenshot](./Dashboard.png)
 ![DevFlow Screenshot](./Portfolio.PNG)
 ![DevFlow Screenshot](./Compare.PNG)
 ![DevFlow Screenshot](./Watchlist.PNG)
