@@ -1,6 +1,7 @@
 # Crypto Dashboard
 
-![Project Preview](./public/preview.png)
+![Project Preview](./public/Dashboard.png)
+![DevFlow Screenshot](./Portfolio.PNG)
 
 > ⚠️ Replace the image above with a real project screenshot.
 > You can upload a screenshot named `preview.png` inside the `/public` folder,
