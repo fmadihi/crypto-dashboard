@@ -1,95 +1,115 @@
 # Crypto Dashboard
 
-یک داشبورد مدرن برای نمایش اطلاعات بازار ارزهای دیجیتال با رابط کاربری ساده، سریع و واکنش‌گرا.
+![Project Preview](./public/preview.png)
 
-## Demo
+> ⚠️ Replace the image above with a real project screenshot.
+> You can upload a screenshot named `preview.png` inside the `/public` folder,
+> or change the image path to any hosted image URL.
 
-🔗 [مشاهده نسخه آنلاین پروژه](https://crypto-dashboard-ten-chi.vercel.app/)
+---
 
-## معرفی پروژه
+## Live Demo
 
-**Crypto Dashboard** یک پروژه‌ی فرانت‌اند با **Next.js** است که برای نمایش و مدیریت اطلاعات مرتبط با ارزهای دیجیتال طراحی شده است.
-این پروژه با هدف ارائه‌ی تجربه‌ای تمیز، سبک و کاربردی ساخته شده و برای استفاده روی دسکتاپ و موبایل بهینه شده است.
+🔗 https://crypto-dashboard-ten-chi.vercel.app/
 
-## ویژگی‌ها
+---
 
-- طراحی مدرن و کاربرپسند
-- رابط کاربری واکنش‌گرا
-- ساخته‌شده با Next.js
-- استفاده از TypeScript
-- سازگار با استایل‌دهی مدرن
-- آماده برای توسعه و شخصی‌سازی بیشتر
+## Overview
 
-## تکنولوژی‌های استفاده‌شده
+Crypto Dashboard is a modern, responsive web application built with **Next.js** and **TypeScript** for visualizing and interacting with cryptocurrency market data.
+
+The project focuses on clean UI, performance, and scalable architecture — making it suitable as a production-ready front-end application.
+
+---
+
+## Key Features
+
+- 📊 Real-time cryptocurrency market data display
+- ⚡ Fast and optimized performance with Next.js
+- 🎯 Clean, modern, and responsive UI
+- 🧩 Component-based architecture
+- 🛠 Type-safe development using TypeScript
+- 🎨 Styled with Tailwind CSS
+
+---
+
+## Tech Stack
 
 - **Next.js**
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
 - **ESLint**
+- **Vercel** (Deployment)
 
-## نصب و اجرا
+---
 
-اگر می‌خواهی پروژه را به‌صورت لوکال اجرا کنی، مراحل زیر را انجام بده:
+## Getting Started
 
-### 1) کلون کردن پروژه
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/fmadihi/crypto-dashboard.git
 cd crypto-dashboard
 ```
 
-### 2) نصب وابستگی‌ها
+### 2. Install dependencies
+
 ```bash
 npm install
 ```
 
-### 3) اجرای پروژه در حالت توسعه
+### 3. Run the development server
+
 ```bash
 npm run dev
 ```
 
-سپس پروژه را در آدرس زیر باز کن:
+Open:
 
 ```bash
 http://localhost:3000
 ```
 
-## ساخت نسخه production
+---
 
-برای build گرفتن از پروژه:
+## Production Build
 
 ```bash
 npm run build
-```
-
-و برای اجرای نسخه production:
-
-```bash
 npm start
 ```
 
-## ساختار پروژه
+---
+
+## Project Structure
 
 ```bash
-app/        # صفحات و بخش‌های اصلی پروژه
-public/     # فایل‌های عمومی و استاتیک
+app/        # Application routes and pages
+public/     # Static assets
 ```
 
-## Deploy
+---
 
-این پروژه روی Vercel دیپلوی شده است:
+## Deployment
 
-🔗 https://crypto-dashboard-ten-chi.vercel.app/
+This project is deployed on Vercel:
 
-## مشارکت
+https://crypto-dashboard-ten-chi.vercel.app/
 
-اگر دوست داشتی روی پروژه کار کنی:
+---
 
-1. ریپو را fork کن
-2. یک branch جدید بساز
-3. تغییرات را اعمال کن
-4. Pull Request ثبت کن
+## About This Project
 
-## لایسنس
+This project was developed as part of my front-end portfolio, demonstrating:
 
-این پروژه برای استفاده و توسعه‌ی شخصی در دسترس است.
+- Strong understanding of modern React patterns
+- Clean component architecture
+- Performance-oriented development
+- Production-ready deployment workflow
+
+---
+
+## License
+
+This project is open for review and portfolio purposes.
