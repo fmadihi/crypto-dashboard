@@ -1,36 +1,190 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Crypto Dashboard
 
-## Getting Started
+A sleek, modern, and high-performance Cryptocurrency Dashboard built with the latest Next.js features, TypeScript, and Tailwind CSS.
 
-First, run the development server:
 
-```bash
+
+
+
+
+✨ Features
+
+
+
+
+
+Real-time Market Data: Stay updated with the latest cryptocurrency prices and trends.
+
+
+
+Modern UI/UX: Clean, intuitive, and responsive design using Tailwind CSS.
+
+
+
+Next.js 15 Power: Utilizing the App Router, Server Components, and optimized rendering.
+
+
+
+Type Safe: Fully written in TypeScript for better developer experience and fewer bugs.
+
+
+
+Fast Performance: Optimized images, fonts (Geist), and lightning-fast builds.
+
+🛠️ Tech Stack
+
+
+
+
+
+Framework: Next.js (App Router)
+
+
+
+Styling: Tailwind CSS
+
+
+
+Language: TypeScript
+
+
+
+Icons: Lucide React (Recommended)
+
+
+
+Deployment: Vercel
+
+
+
+🚀 Getting Started
+
+Prerequisites
+
+
+
+
+
+Node.js (v18.x or later)
+
+
+
+npm or yarn or pnpm
+
+Installation
+
+
+
+
+
+Clone the repository:
+
+git clone https://github.com/fmadihi/crypto-dashboard.git
+cd crypto-dashboard
+
+
+
+
+Install dependencies:
+
+npm install
+# or
+yarn install
+
+
+
+
+Run the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Open in browser:
+Go to http://localhost:3000 to see the application.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📦 Project Structure
 
-## Deploy on Vercel
+├── app/               # Next.js App Router (Pages, Components, API)
+├── public/            # Static assets (images, icons)
+├── components/        # Reusable UI components
+├── lib/               # Utility functions and shared logic
+├── next.config.ts     # Next.js configuration
+├── tailwind.config.ts # Tailwind CSS theme configuration
+└── tsconfig.json      # TypeScript configuration
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+🛠️ Commands
+
+
+
+
+
+npm run dev: Starts the development server.
+
+
+
+npm run build: Creates an optimized production build.
+
+
+
+npm run start: Starts the production server after building.
+
+
+
+npm run lint: Checks for linting issues.
+
+
+
+npm test: Runs the test suite (Vitest/Playwright).
+
+
+
+🌐 Deployment
+
+This project is automatically deployed using Vercel. Every push to the main branch will trigger a new deployment.
+
+Current Live URL: https://crypto-dashboard-ten-chi.vercel.app/
+
+
+
+🤝 Contributing
+
+Contributions are welcome! If you have any ideas, feel free to:
+
+
+
+
+
+Fork the Project
+
+
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+
+
+Open a Pull Request
+
+
+
+📄 License
+
+This project is open-source and available under the MIT License.
+
+
+
+Developed with ❤️ by F. Madihi
