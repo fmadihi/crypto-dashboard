@@ -1,17 +1,18 @@
 # Crypto Dashboard
 
-![Project Preview](./public/Dashboard.png)
-![DevFlow Screenshot](./Portfolio.PNG)
-
-> ⚠️ Replace the image above with a real project screenshot.
-> You can upload a screenshot named `preview.png` inside the `/public` folder,
-> or change the image path to any hosted image URL.
-
----
-
 ## Live Demo
 
 🔗 https://crypto-dashboard-ten-chi.vercel.app/
+
+---
+
+## Picture
+
+![DevFlow Screenshot](./public/Dashboard.png)
+![DevFlow Screenshot](./Portfolio.PNG)
+![DevFlow Screenshot](./Compare.PNG)
+![DevFlow Screenshot](./Watchlist.PNG)
+![DevFlow Screenshot](./Alert.PNG)
 
 ---
 
